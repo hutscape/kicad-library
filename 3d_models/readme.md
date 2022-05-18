@@ -14,3 +14,9 @@ Credit: [Grabcab](https://grabcad.com/library/micro-usb-1)
 Credit: [Grabcab](https://grabcad.com/library/smd-side-push-button-2x4x3-5-mm-1)
 
 ![](../images/3d_models/smd-side-push-button-2x4x305mm.png)
+
+## 18650 battery
+
+Credit: [Grabcab](https://grabcad.com/library/inr18650-35e-samsung-35e-li-ion-18650-battery-batterie-1)
+
+![](../images/3d_models/18650-battery.jpg)
