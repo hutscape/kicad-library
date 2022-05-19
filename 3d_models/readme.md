@@ -5,6 +5,7 @@
 - [18650 battery](#18650-battery)
 - [Stub Antenna](#stub-antenna)
 - [Hex spacer M3](#hex-spacer-m3)
+- [Waveshare Eink 1.54](#waveshare-eink-154)
 
 ## Micro USB-B connector
 
@@ -35,3 +36,10 @@ Credit: [Grabcab](https://grabcad.com/library/octane-wireless-tri-band-stub-ante
 Credit: [Grabcab](https://grabcad.com/library/hexagonal-spacers-m3-f-f-hex-5-5-1)
 
 ![](../images/3d_models/hex_spacer_m3_ff_1cm.png)
+
+
+## Waveshare Eink 1.54
+
+[Source file](../cad_files/waveshare_eink_1_54in.FCStd)
+
+![](../images/3d_models/waveshare_eink_1_54in.png)
