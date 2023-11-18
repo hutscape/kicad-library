@@ -25,6 +25,14 @@
 </details>
 
 <details>
+  <summary>Espressif ESP32-C3</summary>
+
+  Credit: [Espressif KiCad library](https://github.com/espressif/kicad-libraries/tree/main/footprints)
+
+  ![](../images/footprints/espressif-esp323.png)
+</details>
+
+<details>
   <summary>HopeRF LoRa RFM95W-915S2</summary>
 
   Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)

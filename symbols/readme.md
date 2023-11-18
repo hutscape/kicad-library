@@ -45,6 +45,8 @@
 <details>
 <summary>Espressif ESP32-C3</summary>
 
+Credit: [Espressif KiCad library](https://github.com/espressif/kicad-libraries/tree/main/symbols)
+
 ![Espressif ESP32-C3](../images/symbols/espressif_esp32c3.png)
 
 </details>

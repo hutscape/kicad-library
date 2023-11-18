@@ -1,45 +1,57 @@
-# 3D Models
+# 3D Model images
 
-- [Micro USB-B connector](#micro-usb-b-connector)
-- [Push button SMD side](#push-button-smd-side)
-- [18650 battery](#18650-battery)
-- [Stub Antenna](#stub-antenna)
-- [Hex spacer M3](#hex-spacer-m3)
-- [Waveshare Eink 1.54](#waveshare-eink-154)
+<details>
+  <summary>18650 battery</summary>
 
-## Micro USB-B connector
+  Credit: [Grabcad](https://grabcad.com/library/inr18650-35e-samsung-35e-li-ion-18650-battery-batterie-1)
 
-Credit: [Grabcab](https://grabcad.com/library/micro-usb-1)
+  ![](../images/3d_models/18650-battery.jpg)
+</details>
 
-![](../images/3d_models/micro-usb-b-connector.jpg)
+<details>
+  <summary>Espressif ESP32-C3</summary>
 
-## Push button SMD side
+  Credit: [Espressif KiCad Library](https://github.com/espressif/kicad-libraries/tree/main/3dmodels)
 
-Credit: [Grabcab](https://grabcad.com/library/smd-side-push-button-2x4x3-5-mm-1)
+  ![](../images/3d_models/espressif-esp32c3.png)
+</details>
 
-![](../images/3d_models/smd-side-push-button-2x4x305mm.png)
+<details>
+  <summary>Hex spacer M3</summary>
 
-## 18650 battery
+  Credit: [Grabcad](https://grabcad.com/library/hexagonal-spacers-m3-f-f-hex-5-5-1)
 
-Credit: [Grabcab](https://grabcad.com/library/inr18650-35e-samsung-35e-li-ion-18650-battery-batterie-1)
+  ![](../images/3d_models/hex_spacer_m3_ff_1cm.png)
+</details>
 
-![](../images/3d_models/18650-battery.jpg)
+<details>
+  <summary>Micro USB-B connector</summary>
 
-## Stub antenna
+  Credit: [Grabcad](https://grabcad.com/library/micro-usb-1)
 
-Credit: [Grabcab](https://grabcad.com/library/octane-wireless-tri-band-stub-antenna-1)
+  ![](../images/3d_models/micro-usb-b-connector.jpg)
+</details>
 
-![](../images/3d_models/stub-antenna.png)
+<details>
+  <summary>Push button SMD side</summary>
 
-## Hex spacer M3
+  Credit: [Grabcad](https://grabcad.com/library/smd-side-push-button-2x4x3-5-mm-1)
 
-Credit: [Grabcab](https://grabcad.com/library/hexagonal-spacers-m3-f-f-hex-5-5-1)
+  ![](../images/3d_models/smd-side-push-button-2x4x305mm.png)
+</details>
 
-![](../images/3d_models/hex_spacer_m3_ff_1cm.png)
+<details>
+  <summary>Stub antenna</summary>
 
+  Credit: [Grabcad](https://grabcad.com/library/octane-wireless-tri-band-stub-antenna-1)
 
-## Waveshare Eink 1.54
+  ![](../images/3d_models/stub-antenna.png)
+</details>
 
-[Source file](../cad_files/waveshare_eink_1_54in.FCStd)
+<details>
+  <summary>Waveshare Eink 1.54</summary>
 
-![](../images/3d_models/waveshare_eink_1_54in.png)
+  [Source file](../cad_files/waveshare_eink_1_54in.FCStd)
+
+  ![](../images/3d_models/waveshare_eink_1_54in.png)
+</details>
