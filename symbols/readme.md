@@ -2,12 +2,14 @@
 
 <details>
 <summary>Adafruit RFM9x LoRaWAN</summary>
+
 ![Adafruit RFM9x LoRaWAN](../images/symbols/adafruit_lorawan_rfm9x.png)
 
 </details>
 
 <details>
 <summary>Adafruit nRF52 feather</summary>
+
 ![Adafruit nRF52 feather](../images/symbols/adafruit_nRF52_feather.png)
 
 </details>
