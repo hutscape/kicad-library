@@ -3,11 +3,13 @@
 <details>
 <summary>Adafruit RFM9x LoRaWAN</summary>
 ![Adafruit RFM9x LoRaWAN](../images/symbols/adafruit_lorawan_rfm9x.png)
+
 </details>
 
 <details>
 <summary>Adafruit nRF52 feather</summary>
 ![Adafruit nRF52 feather](../images/symbols/adafruit_nRF52_feather.png)
+
 </details>
 
 <details>
@@ -47,8 +49,11 @@
 
 <details>
 <summary>RaspberryPI Pico dev board</summary>
+
 Credit: [blippy on GitHub](https://github.com/blippy/rpi/tree/master/pico/kicad)
+
 ![RaspberryPI Pico dev board - Credit: blippy on GitHub](../images/symbols/raspberryPI_pico.png)
+
 </details>
 
 <details>
