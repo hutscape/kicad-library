@@ -43,6 +43,13 @@
 </details>
 
 <details>
+<summary>Espressif ESP32-C3</summary>
+
+![Espressif ESP32-C3](../images/symbols/espressif_esp32c3.png)
+
+</details>
+
+<details>
 <summary>Logic Level shifter 4-channel bidirectional</summary>
 
 ![Logic Level shifter 4-channel bidirectional](../images/symbols/level_shifter_4channel_bidirectional.png)

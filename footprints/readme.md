@@ -1,101 +1,103 @@
-# Footprints
+# Footprint images
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+  <summary>Push_Button</summary>
 
-- [Push_Button](#push_button)
-- [Si7021](#si7021)
-- [wemos_d1_mini](#wemos_d1_mini)
-- [wemos_battery_shield](#wemos_battery_shield)
-- [VEML6075_breakout_board](#veml6075_breakout_board)
-- [nRF52 Bluefruit Feather Adafruit breakout board](#nrf52-bluefruit-feather-adafruit-breakout-board)
-- [CREE RGB LED 5.5mm x 5.5mm 6pin](#cree-rgb-led-55mm-x-55mm-6pin)
-- [Connector USB Micro-B Horizontal](#connector-usb-micro-b-horizontal)
-- [Battery holder for 3xAA Takachi](#battery-holder-for-3xaa-takachi)
-- [Passives 0805](#passives-0805)
-- [GPS CDTop MT3333 PA1010D](#gps-cdtop-mt3333-pa1010d)
-- [Panelization](#panelization)
-- [HopeRF RFM95W-915S2](#hoperf-rfm95w-915s2)
-- [Waveshare 1.54in E-Ink module](#waveshare-154in-e-ink-module)
+  ![](../images/footprints/Push_Button.png)
+</details>
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<details>
+  <summary>Si7021</summary>
 
-## Push_Button
+  ![](../images/footprints/Si7021.png)
+</details>
 
-![](../images/footprints/Push_Button.png)
+<details>
+  <summary>wemos_d1_mini</summary>
 
-## Si7021
+  ![](../images/footprints/wemos_d1_mini.png)
+</details>
 
-![](../images/footprints/Si7021.png)
+<details>
+  <summary>wemos_battery_shield</summary>
 
-## wemos_d1_mini
+  ![](../images/footprints/wemos_battery_shield.png)
+</details>
 
-![](../images/footprints/wemos_d1_mini.png)
+<details>
+  <summary>VEML6075_breakout_board</summary>
 
-## wemos_battery_shield
+  ![](../images/footprints/VEML6075_breakout_board.png)
+</details>
 
-![](../images/footprints/wemos_battery_shield.png)
+<details>
+  <summary>nRF52 Bluefruit Feather Adafruit breakout board</summary>
 
-## VEML6075_breakout_board
+  ![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+</details>
 
-![](../images/footprints/VEML6075_breakout_board.png)
+<details>
+  <summary>CREE RGB LED 5.5mm x 5.5mm 6pin</summary>
 
-## nRF52 Bluefruit Feather Adafruit breakout board
+  ![](../images/footprints/cree_rgb_led_55x55mm.png)
+</details>
 
-![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+<details>
+  <summary>Connector USB Micro-B Horizontal</summary>
 
-## CREE RGB LED 5.5mm x 5.5mm 6pin
+  ![](../images/footprints/Connector_USB_Micro-B-Horizontal.png)
+</details>
 
-![](../images/footprints/cree_rgb_led_55x55mm.png)
+<details>
+  <summary>Battery holder for 3xAA Takachi</summary>
 
-## Connector USB Micro-B Horizontal
+  ![](../images/footprints/BatteryHolder_Takachi_3xAA.png)
+</details>
 
-![](../images/footprints/Connector_USB_Micro-B-Horizontal.png)
+<details>
+  <summary>Passives 0805</summary>
 
-## Battery holder for 3xAA Takachi
+  Capacitor
+  ![](../images/footprints/capacitor_0805.png)
 
-![](../images/footprints/BatteryHolder_Takachi_3xAA.png)
+  Diode
+  ![](../images/footprints/diode_0805.png)
 
-## Passives 0805
+  LED
+  ![](../images/footprints/led_0805.png)
 
-Capacitor
+  Inductor
+  ![](../images/footprints/inductor_0805.png)
 
-![](../images/footprints/capacitor_0805.png)
+  Resistor
+  ![](../images/footprints/resistor_0805.png)
+</details>
 
-Diode
+<details>
+  <summary>GPS CDTop MT3333 PA1010D</summary>
 
-![](../images/footprints/diode_0805.png)
+  ![](../images/footprints/CDTop_MT3333_PA1010D.png)
+</details>
 
-LED
+<details>
+  <summary>Panelization</summary>
 
-![](../images/footprints/led_0805.png)
+  With tabs and mouse bites.
+  Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
 
-Inductor
+  ![](../images/footprints/paneliaztion_2mm.png)
+</details>
 
-![](../images/footprints/inductor_0805.png)
+<details>
+  <summary>HopeRF RFM95W-915S2</summary>
 
-Resistor
+  Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
 
-![](../images/footprints/resistor_0805.png)
+  ![](../images/footprints/HopeRF_RFM9X.png)
+</details>
 
-## GPS CDTop MT3333 PA1010D
+<details>
+  <summary>Waveshare 1.54in E-Ink module</summary>
 
-![](../images/footprints/CDTop_MT3333_PA1010D.png)
-
-## Panelization
-
-With tabs and mouse bites.
-
-Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
-
-![](../images/footprints/paneliaztion_2mm.png)
-
-## HopeRF RFM95W-915S2
-
-Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
-
-![](../images/footprints/HopeRF_RFM9X.png)
-
-## Waveshare 1.54in E-Ink module
-
-![](../images/footprints/Waveshare_1in54_epaper.png)
+  ![](../images/footprints/Waveshare_1in54_epaper.png)
+</details>
