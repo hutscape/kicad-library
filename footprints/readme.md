@@ -41,6 +41,14 @@
 </details>
 
 <details>
+  <summary>Molex USB-C 1054500101 connector</summary>
+
+  Credit: [SnapEDA DigiKey](https://www.digikey.com/en/models/5843890)
+
+  ![Molex USB-C 1054500101 connector](../images/footprints/molex_usbc_1054500101.png)
+</details>
+
+<details>
   <summary>nRF52 Bluefruit Feather Adafruit breakout board</summary>
 
   ![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)

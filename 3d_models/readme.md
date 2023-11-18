@@ -33,6 +33,14 @@
 </details>
 
 <details>
+  <summary>Molex USB-C 1054500101 connector</summary>
+
+  Credit: [SnapEDA DigiKey](https://www.digikey.com/en/models/5843890)
+
+  ![Molex USB-C 1054500101 connector](../images/3d_models/molex_usbc_1054500101.png)
+</details>
+
+<details>
   <summary>Push button SMD side</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/smd-side-push-button-2x4x3-5-mm-1)
