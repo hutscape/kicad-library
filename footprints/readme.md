@@ -1,39 +1,15 @@
 # Footprint images
 
 <details>
-  <summary>Push_Button</summary>
+  <summary>Battery holder for 3xAA Takachi</summary>
 
-  ![](../images/footprints/Push_Button.png)
+  ![](../images/footprints/BatteryHolder_Takachi_3xAA.png)
 </details>
 
 <details>
-  <summary>Si7021</summary>
+  <summary>CDTop GPS MT3333 PA1010D</summary>
 
-  ![](../images/footprints/Si7021.png)
-</details>
-
-<details>
-  <summary>wemos_d1_mini</summary>
-
-  ![](../images/footprints/wemos_d1_mini.png)
-</details>
-
-<details>
-  <summary>wemos_battery_shield</summary>
-
-  ![](../images/footprints/wemos_battery_shield.png)
-</details>
-
-<details>
-  <summary>VEML6075_breakout_board</summary>
-
-  ![](../images/footprints/VEML6075_breakout_board.png)
-</details>
-
-<details>
-  <summary>nRF52 Bluefruit Feather Adafruit breakout board</summary>
-
-  ![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+  ![](../images/footprints/CDTop_MT3333_PA1010D.png)
 </details>
 
 <details>
@@ -49,9 +25,26 @@
 </details>
 
 <details>
-  <summary>Battery holder for 3xAA Takachi</summary>
+  <summary>HopeRF LoRa RFM95W-915S2</summary>
 
-  ![](../images/footprints/BatteryHolder_Takachi_3xAA.png)
+  Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
+
+  ![](../images/footprints/HopeRF_RFM9X.png)
+</details>
+
+<details>
+  <summary>nRF52 Bluefruit Feather Adafruit breakout board</summary>
+
+  ![](../images/footprints/nrf52_bluefruit_Adafruit_breakout_board.png)
+</details>
+
+<details>
+  <summary>Panelization</summary>
+
+  With tabs and mouse bites.
+  Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
+
+  ![](../images/footprints/paneliaztion_2mm.png)
 </details>
 
 <details>
@@ -74,30 +67,37 @@
 </details>
 
 <details>
-  <summary>GPS CDTop MT3333 PA1010D</summary>
+  <summary>Push_Button</summary>
 
-  ![](../images/footprints/CDTop_MT3333_PA1010D.png)
+  ![](../images/footprints/Push_Button.png)
 </details>
 
 <details>
-  <summary>Panelization</summary>
+  <summary>Si7021 Temperature and humidity sensor</summary>
 
-  With tabs and mouse bites.
-  Credits: [Panelization by madworm](https://github.com/madworm/Panelization.pretty)
-
-  ![](../images/footprints/paneliaztion_2mm.png)
+  ![](../images/footprints/Si7021.png)
 </details>
 
 <details>
-  <summary>HopeRF RFM95W-915S2</summary>
+  <summary>VEML6075 breakout board</summary>
 
-  Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)
-
-  ![](../images/footprints/HopeRF_RFM9X.png)
+  ![](../images/footprints/VEML6075_breakout_board.png)
 </details>
 
 <details>
   <summary>Waveshare 1.54in E-Ink module</summary>
 
   ![](../images/footprints/Waveshare_1in54_epaper.png)
+</details>
+
+<details>
+  <summary>WeMos Battery shield</summary>
+
+  ![](../images/footprints/wemos_battery_shield.png)
+</details>
+
+<details>
+  <summary>WeMos D1 Mini</summary>
+
+  ![](../images/footprints/wemos_d1_mini.png)
 </details>
