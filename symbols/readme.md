@@ -31,6 +31,13 @@
 </details>
 
 <details>
+  <summary>Bell Ding Dong chip TQ33E-1</summary>
+  Credit: [TQ33E-1 Ding Dong 2 times Music chip](https://www.yoycart.com/Product/550682313846/)
+
+  ![Bell Ding Dong chip TQ33E-1](../images/symbols/bell_tq33e_1.png)
+</details>
+
+<details>
   <summary>CDTop PA1010D GPS</summary>
 
   ![CDTop PA1010D GPS](../images/symbols/cdtop_pa1010d_gps.png)
