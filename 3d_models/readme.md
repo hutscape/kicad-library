@@ -17,6 +17,14 @@
 </details>
 
 <details>
+  <summary>GCT USB-C USB2.0 16+8 pins</summary>
+
+  Credit: [DigiKey](https://www.digikey.com/en/models/15283202)
+
+  ![Espressif ESP32-C3](../images/3d_models/gct_usb4510-03-1-a.png)
+</details>
+
+<details>
   <summary>Hex spacer M3</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/hexagonal-spacers-m3-f-f-hex-5-5-1)

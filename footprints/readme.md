@@ -33,6 +33,14 @@
 </details>
 
 <details>
+  <summary>GCT USB-C USB2.0 16+8 pins</summary>
+
+  Credit: [DigiKey](https://www.digikey.com/en/models/15283202)
+
+  ![Espressif ESP32-C3](../images/footprints/gct_usb4510-03-1-a.png)
+</details>
+
+<details>
   <summary>HopeRF LoRa RFM95W-915S2</summary>
 
   Credit: [Swij/kicad-RFM9X](https://github.com/Swij/kicad-RFM9X)

@@ -52,6 +52,14 @@
 </details>
 
 <details>
+  <summary>GCT USB-C USB2.0 16+8 pins</summary>
+
+  Credit: [DigiKey](https://www.digikey.com/en/models/15283202)
+
+  ![Espressif ESP32-C3](../images/symbols/gct_usb4510-03-1-a.png)
+</details>
+
+<details>
   <summary>Logic Level shifter 4-channel bidirectional</summary>
 
   ![Logic Level shifter 4-channel bidirectional](../images/symbols/level_shifter_4channel_bidirectional.png)
