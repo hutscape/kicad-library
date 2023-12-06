@@ -52,6 +52,14 @@
 </details>
 
 <details>
+  <summary>E-Switch Push button TL3305AF160QG</summary>
+
+  Credit: [DigiKey](https://www.digikey.com/en/models/5816181)
+
+  ![Espressif ESP32-C3](../images/symbols/eswitch_TL3305AF160QG.png)
+</details>
+
+<details>
   <summary>GCT USB-C USB2.0 16+8 pins</summary>
 
   Credit: [DigiKey](https://www.digikey.com/en/models/15283202)
