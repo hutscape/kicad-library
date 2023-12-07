@@ -25,14 +25,6 @@
 </details>
 
 <details>
-  <summary>GCT USB-C USB2.0 16+8 pins</summary>
-
-  Credit: [DigiKey](https://www.digikey.com/en/models/15283202)
-
-  ![Espressif ESP32-C3](../images/3d_models/gct_usb4510-03-1-a.png)
-</details>
-
-<details>
   <summary>Hex spacer M3</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/hexagonal-spacers-m3-f-f-hex-5-5-1)
@@ -49,11 +41,13 @@
 </details>
 
 <details>
-  <summary>Molex USB-C 1054500101 connector</summary>
+  <summary>Molex USB-C</summary>
 
-  Credit: [SnapEDA DigiKey](https://www.digikey.com/en/models/5843890)
+  Molex USB-C USB 2.0 Through-Hole 16+8 pin connector
 
-  ![Molex USB-C 1054500101 connector](../images/3d_models/molex_usbc_1054500101.png)
+  Credit: [SnapEDA DigiKey](https://www.digikey.sg/en/models/13662558X)
+
+  ![](../images/3d_models/molex_usbc_2137160001.png)
 </details>
 
 <details>
