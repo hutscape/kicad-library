@@ -57,6 +57,16 @@
 </details>
 
 <details>
+  <summary>Phoenix Screw Terminal Through-Hole</summary>
+
+  Through-hole, 2 positions with MPN 1935161
+
+  Credit: [SnapEDA DigiKey](https://www.digikey.sg/en/models/568614)
+
+  ![Phoenix Screw Terminal Through-Hole](../images/3d_models/phoenix_screw_terminal_th_1935161.png)
+</details>
+
+<details>
   <summary>Push button SMD side</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/smd-side-push-button-2x4x3-5-mm-1)

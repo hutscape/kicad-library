@@ -82,6 +82,16 @@
 </details>
 
 <details>
+  <summary>Phoenix Screw Terminal Through-Hole</summary>
+
+  Through-hole, 2 positions with MPN 1935161
+
+  Credit: [SnapEDA DigiKey](https://www.digikey.sg/en/models/568614)
+
+  ![Phoenix Screw Terminal Through-Hole](../images/symbols/phoenix_screw_terminal_th_1935161.png)
+</details>
+
+<details>
   <summary>RaspberryPI Pico dev board</summary>
 
   Credit: [blippy on GitHub](https://github.com/blippy/rpi/tree/master/pico/kicad)
