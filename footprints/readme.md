@@ -7,6 +7,14 @@
 </details>
 
 <details>
+  <summary>Battery holder for CR123A</summary>
+
+  Credit: [My Sensors KiCad footprint](https://github.com/mysensors-kicad/mysensors_connectors.pretty/blob/master/CR123_holder.kicad_mod)
+
+  ![](../images/footprints/cr123a_battery_holder.png)
+</details>
+
+<details>
   <summary>CDTop GPS MT3333 PA1010D</summary>
 
   ![](../images/footprints/CDTop_MT3333_PA1010D.png)
