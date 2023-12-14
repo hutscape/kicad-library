@@ -9,6 +9,22 @@
 </details>
 
 <details>
+  <summary>CR123A battery</summary>
+
+  Credit: [Grabcad](https://grabcad.com/library/cr123-3v-lithium-battery-1)
+
+  ![](../images/3d_models/cr123a_battery.png)
+</details>
+
+<details>
+  <summary>CR123A battery holder</summary>
+
+  Credit: [Grabcad](https://grabcad.com/library/cr123a-battery-holder-1)
+
+  ![](../images/3d_models/cr123a_battery_holder.png)
+</details>
+
+<details>
   <summary>Espressif ESP32-C3</summary>
 
   Credit: [Espressif KiCad Library](https://github.com/espressif/kicad-libraries/tree/main/3dmodels)
