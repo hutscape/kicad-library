@@ -57,6 +57,14 @@
 </details>
 
 <details>
+  <summary>Keystone test point 5015</summary>
+
+  Credit: [DigiKey](https://www.digikey.sg/en/models/278885)
+
+  ![Keystone test point](../images/footprints/keystone_test_point_5015.png)
+</details>
+
+<details>
   <summary>Molex USB-C</summary>
 
   Molex USB-C USB 2.0 Through-Hole 16+8 pin connector

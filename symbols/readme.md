@@ -60,6 +60,14 @@
 </details>
 
 <details>
+  <summary>Keystone test point 5015</summary>
+
+  Credit: [DigiKey](https://www.digikey.sg/en/models/278885)
+
+  ![Keystone test point](../images/symbols/keystone_test_point_5015.png)
+</details>
+
+<details>
   <summary>Logic Level shifter 4-channel bidirectional</summary>
 
   ![Logic Level shifter 4-channel bidirectional](../images/symbols/level_shifter_4channel_bidirectional.png)

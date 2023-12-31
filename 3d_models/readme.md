@@ -49,6 +49,14 @@
 </details>
 
 <details>
+  <summary>Keystone test point 5015</summary>
+
+  Credit: [DigiKey](https://www.digikey.sg/en/models/278885)
+
+  ![Keystone test point](../images/3d_models/keystone_test_point_5015.png)
+</details>
+
+<details>
   <summary>Micro USB-B connector</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/micro-usb-1)
