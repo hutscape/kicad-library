@@ -9,6 +9,13 @@
 </details>
 
 <details>
+  <summary>C&K Slide Switch JS102011JCQN</summary>
+  Credit: [DigiKey](https://www.digikey.sg/en/models/6137628)
+
+  ![C&K Slide Switch JS102011JCQ](../images/3d_models/CK_slide_switch_spdt_JS102011JCQN.png)
+</details>
+
+<details>
   <summary>CR123A battery</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/cr123-3v-lithium-battery-1)

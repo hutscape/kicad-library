@@ -15,6 +15,13 @@
 </details>
 
 <details>
+  <summary>C&K Slide Switch JS102011JCQN</summary>
+  Credit: [DigiKey](https://www.digikey.sg/en/models/6137628)
+
+  ![C&K Slide Switch JS102011JCQ](../images/footprints/CK_slide_switch_spdt_JS102011JCQN.png)
+</details>
+
+<details>
   <summary>CDTop GPS MT3333 PA1010D</summary>
 
   ![](../images/footprints/CDTop_MT3333_PA1010D.png)
