@@ -100,6 +100,14 @@
 </details>
 
 <details>
+  <summary>Speaker 28mm</summary>
+
+    [Source file](../cad_files/speaker_28mm.FCStd)
+
+  ![](../images/3d_models/speaker_28mm.png)
+</details>
+
+<details>
   <summary>Stub antenna</summary>
 
   Credit: [Grabcad](https://grabcad.com/library/octane-wireless-tri-band-stub-antenna-1)
